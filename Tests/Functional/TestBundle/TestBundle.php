@@ -1,6 +1,6 @@
 <?php
 
-namespace LilaConcepts\Bundle\LilaConceptsBestPracticeBundle\Tests\Functional\TestBundle;
+namespace Acme\Bundle\AcmeMainBundle\Tests\Functional\TestBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
