@@ -23,7 +23,7 @@
         "symfony/symfony": "2.*"
     },
     "autoload":     {
-        "psr-0": { "Csb\\BehatBundle\\BehatBundle": "" }
+        "psr-0": { "Csb\\BehatBundle": "" }
     },
-    "target-dir": "Csb/BehatBundle/BehatBundle"
+    "target-dir": "Csb/BehatBundle"
 }
